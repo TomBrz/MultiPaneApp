@@ -14,7 +14,10 @@ import android.widget.TextView;
  */
 public class fragment_detail extends Fragment {
     private TextView mTxtv_name;
-
+    private String hallo = "hallo";
+    private String hallo2="hallo2";
+    private String hallo3="hallo3";
+    //
 
     public fragment_detail() {
         // Required empty public constructor
